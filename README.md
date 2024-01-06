@@ -1,8 +1,17 @@
-# Aulas-Eletro
+# 🪧 Aulas-Eletro
 
 Este é um repositório que contém alguns exercícios de Eletroeletrônica que eu fiz durante o meu curso técnico. Os exercícios abordam temas como circuitos elétricos, calculos, eletrônica analógica e digital, microcontroladores, sensores e entre outros. Cada pasta do repositório corresponde a um exercício diferente.
 
-## Ajudinhas <3
+
+## 📋 Sumário
+
+Conteúdo de cada pasta:
+
+- Capacitancia: Exercício resolvido <br>
+- WebCp: Calculadora de correção de circuito CA <br>
+
+
+## 🌿 Ajudinhas <3
 
 Este repositório é um projeto pessoal que eu fiz para praticar os meus conhecimentos. Se você quiser contribuir com novos exercícios, sugestões ou correções, você pode fazer um fork do repositório, fazer as suas alterações e enviar um pull request. Eu ficarei feliz em receber o seu feedback e melhorar o meu aprendizado. 😊
 Alguns temas do curso:
@@ -30,10 +39,10 @@ São circuitos integrados que contêm um processador, memória e interfaces de e
 
 *Estes resumos foram gerados automáticamente. 
 
-## Licença
+## ⚖️ Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Criadora
+## ♥️ Criadora
 
-- [Kauanne Gomes](https://www.github.com/KwG0)
+- [Kauanne Gomes♥️](https://www.github.com/KwG0)
