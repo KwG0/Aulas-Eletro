@@ -5,7 +5,7 @@ Este repositório contém um código PHP para a correção de circuitos de corre
 
 ## ✏️ Como Usar
 - Clone o repositório.
-- Abra o arquivo PHP em um servidor local.
+- Abra o arquivo PHP em um servidor.
 - Insira os valores de tensão, potência aparente e ângulo do cosseno FI no formulário, e clique no botão "Calcular" para obter os resultados.
 
 *Necessário ter um servidor PHP local instalado.
