@@ -35,7 +35,7 @@ São sistemas que manipulam sinais elétricos que assumem apenas dois valores di
 São circuitos integrados que contêm um processador, memória e interfaces de entrada e saída, capazes de executar tarefas programadas em sistemas embarcados. Eles são usados para controlar dispositivos eletrônicos, como sensores, atuadores, displays, teclados, etc. Eles podem ser de diferentes arquiteturas, como PIC, AVR, ARM, etc.
 
 >Automação industrial <br>
-É o uso da tecnologia para realizar processos produtivos de forma autônoma, eficiente e segura, sem a intervenção humana ou com o mínimo de intervenção. Ela envolve o uso de sistemas de controle, como PLCs, CLPs, IHMs, redes industriais, supervisórios, etc., e de sistemas de informação, como ERP, MES, SCADA...
+É o uso da tecnologia para realizar processos produtivos de forma autônoma, eficiente e segura, sem a intervenção humana ou com o mínimo de intervenção. Ela envolve o uso de sistemas de controle, como CLPs, IHMs, redes industriais, supervisórios, etc., e de sistemas de informação, como ERP, MES, SCADA...
 
 *Estes resumos foram gerados automáticamente. 
 
