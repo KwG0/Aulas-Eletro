@@ -17,7 +17,7 @@ Este repositório é um projeto pessoal que eu fiz para praticar os meus conheci
 Alguns temas do curso:
 
 >Eletricidade <br>
-É o estudo dos fenômenos relacionados às cargas elétricas, como corrente, tensão, resistência, potência, campo elétrico e magnetismo1. Envolve também o conhecimento dos componentes e circuitos elétricos, como resistores, capacitores, bobinas, diodos, transistores, entre outros.
+É o estudo dos fenômenos relacionados às cargas elétricas, como corrente, tensão, resistência, potência, campo elétrico e magnetismo. Envolve também o conhecimento dos componentes e circuitos elétricos, como resistores, capacitores, bobinas, diodos, transistores, entre outros.
 
 >Sistemas eletroeletrônicos prediais <br>
 São conjuntos de componentes e circuitos que realizam funções de instalação, controle, proteção e automação de sistemas elétricos em edifícios residenciais, comerciais ou industriais. Eles envolvem o uso de relés, sensores, temporizadores, inversores, conversores, etc.
